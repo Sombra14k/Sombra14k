@@ -7,7 +7,7 @@
   <br>
 
   <!-- Animação do Terminal Hacker -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_root@Sombra14k:~%23+whoami;>_Desenvolvedor+de+Software;>_Estudante+de+ADS+no+SENAI;>_Foco+em+Ciberseguranca+e+IA;>_Acesso+Concedido..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_root@Sombra14k:~%23+whoami;>_Desenvolvedor+de+Software;>_Estudante+de+ADS+no+SENAI;>_Foco+em+Cibersegurança+e+IA;>_Acesso+Concedido..." alt="Typing SVG" />
 
 </div>
 
