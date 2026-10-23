@@ -1,8 +1,7 @@
-<!-- Adicionar a cibersegurança no texto animado -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Estudante+de+ADS+no+SENAI;Python%2C+Flask+%26+Machine+Learning;Entusiasta+de+Cibersegurança!" alt="Typing SVG" />
-  </a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Estudante+de+ADS+no+SENAI;Python%2C+Flask+%26+Machine+Learning;Entusiasta+de+Ciberseguranca!" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -23,3 +22,10 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📬 Onde me encontrar
+
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **E-mail:** seu.email@exemplo.com
