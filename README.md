@@ -27,5 +27,5 @@
 
 ### 📬 Onde me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **E-mail:** seu.email@exemplo.com
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jhonatan-de-jesus/)
+- **E-mail:** jhonatandejesusrodrigues80@gmail.com
