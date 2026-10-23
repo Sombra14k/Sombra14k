@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner GIF de Código Binário (Corrigido e Responsivo) -->
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" />
+  <!-- Banner / GIF do Sapo Hacker (Tamanho 500x500) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl0dWYzODE3OXczbXdoMm96eWs0c3g0YW1qajAyZDB0eWw4a2FrayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wykXzIq14JZJyVOiAa/giphy.gif" width="500" height="500" />
   
   <br>
   <br>
