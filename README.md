@@ -1,6 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Estudante+de+ADS+no+SENAI;Python%2C+Flask+%26+Machine+Learning;Entusiasta+de+Ciberseguranca!" alt="Typing SVG" />
+  <!-- Banner GIF de Código Binário -->
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="600" height="150" />
+  
+  <br>
+
+  <!-- Animação do Terminal Hacker -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_root@Sombra14k:~%23+whoami;>_Desenvolvedor+de+Software;>_Estudante+de+ADS+no+SENAI;>_Foco+em+Ciberseguranca+e+IA;>_Acesso+Concedido..." alt="Typing SVG" />
 
 </div>
 
@@ -27,5 +33,5 @@
 
 ### 📬 Onde me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jhonatan-de-jesus/)
+- **LinkedIn:** [linkedin.com/in/jhonatan-de-jesus](https://www.linkedin.com/in/jhonatan-de-jesus/)
 - **E-mail:** jhonatandejesusrodrigues80@gmail.com
